@@ -24,10 +24,3 @@ Este repositório é sua **base de conhecimento**:
 - **.NET no WSL**: `docs/guide-installation-dotnet-for-wsl.md`  
 - …e muito mais na barra lateral!
 
----
-
-## 🚀 Como visualizar localmente
-
-1. Instale o Docsify:
-   ```bash
-   npm i -g docsify-cli
